@@ -1,5 +1,5 @@
 #include <iostream>
-#include "quick_sort.h"
+#include "quick_sort/quick_sort.h"
 int main()
 {
 	quick_sort qsort;
