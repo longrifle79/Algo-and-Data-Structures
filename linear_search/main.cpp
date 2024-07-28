@@ -1,5 +1,5 @@
 #include <iostream>
-#include "linear_search.h"
+#include "linear_search/linear_search.h"
 
 
 int main()
