@@ -1,5 +1,5 @@
 #include <iostream>
-#include "binary_search.h"
+#include "binary_search/binary_search.h"
 
 void test_all_values(std::list<int> mylist);
 
